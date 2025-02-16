@@ -913,19 +913,14 @@ label {
 @media (min-width: 768px) {
     /* Global */
     .section {
-           max-width: 768px;
-           padding: 96px 16px;
-        }
+        max-width: 768px;
+        padding: 96px 16px;
+    }
     .container {
         max-width: 768px;
     }
 
     /* Header */
-    .header {
-        max-width: 768px;
-        padding: 0 16px;
-    }   
-    
     .nav {
         gap: 120px;
     }
